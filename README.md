@@ -1,17 +1,19 @@
-# Online Exercises:
-### (A collection of all of the exercises I've either completed or am currently working on)
+# Online Exercises
+#### (A collection of all of the exercises I've either completed or am currently working on)  
+
 
 
 ## Resources (so far):
 
-picoCTF/picoGym
+picoCTF/picoGym   
 HackTheBox
 
-(I'm also working on my (ISC)2 Certified in Cybersecurity Cert, so if there are any interesting exercises from that, I will put them here as well)
+(I'm also working on my (ISC)2 Certified in Cybersecurity Cert, so if there are any interesting exercises from that, I will put them here as well)  
 
 
 
-## A bit about me and my current skill level
+## A bit about me and my current skill level  
+
 
 Despite being in my third year of a CS degree, I basically don't know anything about anything when it comes to security and technical knowledge. And since there aren't very many opportunities to learn relevant skills and information through my coursework, I've turned to some online resources to help teach me the things I'll need to know.
 
